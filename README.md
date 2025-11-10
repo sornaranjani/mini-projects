@@ -50,6 +50,10 @@ Simulates conversational AI interactions for testing and training purposes, supp
 (https://github.com/sornaranjani/mini-projects/blob/main/prompt_pattern_tester_app.py)  
 Tests prompt patterns against AI models to verify consistency, response accuracy, and optimization effectiveness.
 
+### 11. Ai Enhanced School Attendance App 
+
+This mini project demonstrates how **Prompt Engineering concepts** can enhance a traditional school attendance system. 
+
 ## 💻 **Skills**
 - Python | SQL | Streamlit | Git & GitHub  
 - Prompt Engineering | AI Integration | Classroom Automation  
